@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74b5ab7c.css",
+    "main.js": "/static/js/main.42879f94.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Outstretched_Arms.jpeg": "/static/media/Outstretched_Arms.86f2ddbe44c595504ab3.jpeg",
+    "static/media/fullbible.jpeg": "/static/media/fullbible.5805a30870cd9d0d4c24.jpeg",
+    "static/media/smoking.jpeg": "/static/media/smoking.e302491b9aafacf4ea11.jpeg",
+    "static/media/CAYACC-logo-wht-1-297x300.jpeg": "/static/media/CAYACC-logo-wht-1-297x300.125d423ea358701788c4.jpeg",
+    "index.html": "/index.html",
+    "main.74b5ab7c.css.map": "/static/css/main.74b5ab7c.css.map",
+    "main.42879f94.js.map": "/static/js/main.42879f94.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74b5ab7c.css",
+    "static/js/main.42879f94.js"
+  ]
+}
