@@ -1,0 +1,43 @@
+.home-color {
+    min-height: 100vh;
+background-image: url('/Users/enriquegreene/Documents/Documents - Enrique’s MacBook Pro/PostGrad/portfolio/src/images/fullbible.jpeg');
+}
+.bible-page {
+min-height: 100vh;
+background-image: url('/Users/enriquegreene/Documents/Documents - Enrique’s MacBook Pro/PostGrad/portfolio/src/images/smoking.jpeg');
+display: flex;
+justify-content: center;
+background-repeat: no-repeat;
+background-position:center;
+background-size:cover;
+}
+.narr-page {
+    min-height: 100vh;
+    background-image: url('/Users/enriquegreene/Documents/Documents - Enrique’s MacBook Pro/PostGrad/portfolio/src/images/Outstretched_Arms.jpeg');
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size:cover;
+    }
+    
+
+h1,h3 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.pic {
+    display: flex;
+    justify-content: center;
+}
+
+.black-text {
+    color: white;
+
+}
+
+.doggy {
+    color:black;
+}
